@@ -8,7 +8,12 @@
 
 ![growth mindset](https://miro.medium.com/max/1400/1*Q70hUe5dAZD3gz9GG1HH5w.jpeg)
 
-# this is about learning and practice git commands
+# this is about learning and practice git command
+
+// Normal
+|       |      |          |
+| ----- | :--- | :------- |
+|       |      |          |
 
 
 
